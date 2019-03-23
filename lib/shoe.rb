@@ -16,7 +16,7 @@ def brand=(brand)
   @brand= brand
   BRANDS<< brand
 
-def brand
+def BRANDS
   @brand
 end
 
