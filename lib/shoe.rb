@@ -19,4 +19,6 @@ def brand=(brand)
 def brand
   @brand
 end
+
+end
 end
